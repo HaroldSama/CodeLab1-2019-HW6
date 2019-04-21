@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3236f4f4-8c36-4200-b42c-860dd80f7911" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/Assets/Scripts/MouseDragger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/Assets/Scripts/MouseDragger.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="717" />
     <option name="width" value="1210" />
     <option name="height" value="1047" />
@@ -164,12 +167,12 @@
       <updated>1555872565986</updated>
       <workItem from="1555872570611" duration="79000" />
       <workItem from="1555872688707" duration="213000" />
-      <workItem from="1555876211671" duration="2580000" />
+      <workItem from="1555876211671" duration="3161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2872000" />
+    <option name="totallyTimeSpent" value="3453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,7 +184,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
@@ -235,11 +238,11 @@
         <state relative-caret-position="270">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
-            <marker date="1555880992955" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555880992955" expanded="true" signature="121:938" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="258:279" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="337:519" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="680:936" ph="{...}" />
+            <marker date="1555882070740" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555882070740" expanded="true" signature="121:940" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="258:279" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="337:517" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="680:938" ph="{...}" />
           </folding>
         </state>
       </provider>

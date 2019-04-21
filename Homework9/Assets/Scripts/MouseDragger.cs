@@ -21,7 +21,7 @@ public class MouseDragger : MonoBehaviour
         mousePos.z = 10;
         mousePos = Camera.main.ScreenToWorldPoint(mousePos);
                 
-        //print(mousePos);
+        print(mousePos);
     }
 
     private void OnMouseDown()

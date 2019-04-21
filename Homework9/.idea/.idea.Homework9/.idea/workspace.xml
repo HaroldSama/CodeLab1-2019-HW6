@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e5db07-b50d-4dec-91ea-9e253fa0552a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/riderModule.iml" afterDir="false" />
+    <list default="true" id="29e5db07-b50d-4dec-91ea-9e253fa0552a" name="Default Changelist" comment="Character Added">
+      <change beforePath="$PROJECT_DIR$/../ClassDemo/.idea/.idea.ClassDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassDemo/.idea/.idea.ClassDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MouseDragger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MouseDragger.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,18 +16,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseDragger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+            <state relative-caret-position="315">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
-                <marker date="1555880992955" expanded="false" signature="6:78" ph="..." />
-                <marker date="1555880992955" expanded="true" signature="121:938" ph="{...}" />
-                <marker date="1555880992955" expanded="true" signature="258:279" ph="{...}" />
-                <marker date="1555880992955" expanded="true" signature="337:519" ph="{...}" />
-                <marker date="1555880992955" expanded="true" signature="551:648" ph="{...}" />
-                <marker date="1555880992955" expanded="true" signature="680:936" ph="{...}" />
+                <marker date="1555882070740" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555882070740" expanded="true" signature="121:940" ph="{...}" />
+                <marker date="1555882070740" expanded="true" signature="258:279" ph="{...}" />
+                <marker date="1555882070740" expanded="true" signature="337:517" ph="{...}" />
+                <marker date="1555882070740" expanded="true" signature="549:648" ph="{...}" />
+                <marker date="1555882070740" expanded="true" signature="680:938" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameralookFollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1555355954193" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555355954193" expanded="true" signature="80:211" ph="/* USAGE: put this on a thing that looks at stuff(ideally, a camera) ... */" />
+                <marker date="1555355954193" expanded="true" signature="257:1005" ph="{...}" />
+                <marker date="1555355954193" expanded="true" signature="354:1003" ph="{...}" />
+                <marker date="1555355954193" expanded="true" signature="369:438" ph="/* technique 1: sue &quot;LookAt&quot; ... */" />
+                <marker date="1555355954193" expanded="true" signature="470:552" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FixedRotation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+              <folding>
+                <marker date="1555881424484" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555881424484" expanded="true" signature="122:337" ph="{...}" />
+                <marker date="1555881424484" expanded="true" signature="194:215" ph="{...}" />
+                <marker date="1555881424484" expanded="true" signature="273:335" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -42,11 +70,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FixedRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDragger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameralookFollow.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/FixedRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseDragger.cs" />
       </list>
     </option>
@@ -118,12 +149,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555876340376</updated>
-      <workItem from="1555876341889" duration="4651000" />
+      <workItem from="1555876341889" duration="6328000" />
     </task>
+    <task id="LOCAL-00001" summary="Rotating Chain Loop">
+      <created>1555881113010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555881113010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Character Added">
+      <created>1555881803724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555881803724</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4651000" />
+    <option name="totallyTimeSpent" value="6328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,7 +181,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -173,6 +219,11 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rotating Chain Loop" />
+    <MESSAGE value="Character Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Character Added" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -184,17 +235,44 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FixedRotation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <marker date="1555881424484" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555881424484" expanded="true" signature="122:337" ph="{...}" />
+            <marker date="1555881424484" expanded="true" signature="194:215" ph="{...}" />
+            <marker date="1555881424484" expanded="true" signature="273:335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseDragger.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+        <state relative-caret-position="315">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
-            <marker date="1555880992955" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555880992955" expanded="true" signature="121:938" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="258:279" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="337:519" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="551:648" ph="{...}" />
-            <marker date="1555880992955" expanded="true" signature="680:936" ph="{...}" />
+            <marker date="1555882070740" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555882070740" expanded="true" signature="121:940" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="258:279" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="337:517" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="549:648" ph="{...}" />
+            <marker date="1555882070740" expanded="true" signature="680:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameralookFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1555355954193" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555355954193" expanded="true" signature="80:211" ph="/* USAGE: put this on a thing that looks at stuff(ideally, a camera) ... */" />
+            <marker date="1555355954193" expanded="true" signature="257:1005" ph="{...}" />
+            <marker date="1555355954193" expanded="true" signature="354:1003" ph="{...}" />
+            <marker date="1555355954193" expanded="true" signature="369:438" ph="/* technique 1: sue &quot;LookAt&quot; ... */" />
+            <marker date="1555355954193" expanded="true" signature="470:552" ph="{...}" />
           </folding>
         </state>
       </provider>
