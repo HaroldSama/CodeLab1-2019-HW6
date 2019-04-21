@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3236f4f4-8c36-4200-b42c-860dd80f7911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework9/.idea/.idea.Homework9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraDemo.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -35,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameralookFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -89,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="717" />
     <option name="width" value="1210" />
     <option name="height" value="1047" />
@@ -170,12 +164,12 @@
       <updated>1555872565986</updated>
       <workItem from="1555872570611" duration="79000" />
       <workItem from="1555872688707" duration="213000" />
-      <workItem from="1555876211671" duration="2421000" />
+      <workItem from="1555876211671" duration="2580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2713000" />
+    <option name="totallyTimeSpent" value="2872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,7 +181,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
@@ -268,20 +262,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameralookFollow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1555355954193" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555355954193" expanded="true" signature="80:211" ph="/* USAGE: put this on a thing that looks at stuff(ideally, a camera) ... */" />
-            <marker date="1555355954193" expanded="true" signature="257:1005" ph="{...}" />
-            <marker date="1555355954193" expanded="true" signature="354:1003" ph="{...}" />
-            <marker date="1555355954193" expanded="true" signature="369:438" ph="/* technique 1: sue &quot;LookAt&quot; ... */" />
-            <marker date="1555355954193" expanded="true" signature="470:552" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraDemo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -292,6 +272,20 @@
             <marker date="1555350892248" expanded="true" signature="239:896" ph="{...}" />
             <marker date="1555350892248" expanded="true" signature="299:894" ph="{...}" />
             <marker date="1555350892248" expanded="true" signature="314:374" ph="/* simple mouse look ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameralookFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1555355954193" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555355954193" expanded="true" signature="80:211" ph="/* USAGE: put this on a thing that looks at stuff(ideally, a camera) ... */" />
+            <marker date="1555355954193" expanded="true" signature="257:1005" ph="{...}" />
+            <marker date="1555355954193" expanded="true" signature="354:1003" ph="{...}" />
+            <marker date="1555355954193" expanded="true" signature="369:438" ph="/* technique 1: sue &quot;LookAt&quot; ... */" />
+            <marker date="1555355954193" expanded="true" signature="470:552" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -27,14 +27,14 @@ public class MouseDragger : MonoBehaviour
     private void OnMouseDown()
     {
         reference = mousePos - transform.position;
-        print("ref" + reference);
+        //print("ref" + reference);
     }
 
     private void OnMouseDrag()
     {
         transform.Rotate(0, 0, Vector3.SignedAngle(reference, mousePos - transform.position, Vector3.forward));
         reference = mousePos - transform.position;
-        print(Vector3.Angle(reference, mousePos - transform.position));
+        //print(Vector3.Angle(reference, mousePos - transform.position));
         
     }
 }
